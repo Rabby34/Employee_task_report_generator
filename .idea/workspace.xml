@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e41b5d0-d586-4b8e-8ec7-dbcecf25cd0a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YpZX8DwMQGHZRyOk4gjjl8iF2Q" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Final_task_v12">
+    <configuration name="testinghtml.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Final_task_report/testinghtml.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Final_task_v12" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Final_task_report" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Final_task_v12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Final_task_v13" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Final_task_report" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Final_task_v13.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Last_day_company_wise_hour" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Final_task_report" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Last_day_company_wise_hour.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ytd_company_wise_hour" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Final_task_report" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ytd_company_wise_hour.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Final_task_v12" />
+        <item itemvalue="Python.Final_task_v13" />
+        <item itemvalue="JavaScript Debug.testinghtml.html" />
+        <item itemvalue="Python.ytd_company_wise_hour" />
+        <item itemvalue="Python.Last_day_company_wise_hour" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e41b5d0-d586-4b8e-8ec7-dbcecf25cd0a" name="Default Changelist" comment="" />
+      <created>1583641532435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583641532435</updated>
+      <workItem from="1583641533826" duration="6536000" />
+      <workItem from="1583670812803" duration="347000" />
+      <workItem from="1583988723774" duration="1404000" />
+      <workItem from="1584008177145" duration="657000" />
+      <workItem from="1584159946955" duration="2549000" />
+      <workItem from="1584244449138" duration="2661000" />
+      <workItem from="1584331237297" duration="162000" />
+      <workItem from="1584515675640" duration="7447000" />
+      <workItem from="1584590301990" duration="721000" />
+      <workItem from="1584613431390" duration="3929000" />
+      <workItem from="1584764218999" duration="1596000" />
+      <workItem from="1584767859159" duration="610000" />
+      <workItem from="1584869252337" duration="4126000" />
+      <workItem from="1584937620581" duration="16715000" />
+      <workItem from="1585024469042" duration="5453000" />
+      <workItem from="1585109576909" duration="1851000" />
+      <workItem from="1587270567202" duration="1871000" />
+      <workItem from="1587277250798" duration="1639000" />
+      <workItem from="1587359340722" duration="12811000" />
+      <workItem from="1587552578003" duration="17425000" />
+      <workItem from="1587785101085" duration="27152000" />
+      <workItem from="1587968152153" duration="20702000" />
+      <workItem from="1588390658359" duration="28741000" />
+      <workItem from="1588484350066" duration="20770000" />
+      <workItem from="1588666331930" duration="10393000" />
+      <workItem from="1588740614201" duration="972000" />
+      <workItem from="1588755565887" duration="6988000" />
+      <workItem from="1589103363401" duration="9008000" />
+      <workItem from="1589188713468" duration="1528000" />
+      <workItem from="1589270884343" duration="4346000" />
+      <workItem from="1589345981496" duration="14816000" />
+      <workItem from="1589425775346" duration="18144000" />
+      <workItem from="1589622925673" duration="156000" />
+      <workItem from="1589690202513" duration="3957000" />
+      <workItem from="1589778228599" duration="10253000" />
+      <workItem from="1589856375773" duration="640000" />
+      <workItem from="1589875859472" duration="1973000" />
+      <workItem from="1590998424865" duration="634000" />
+      <workItem from="1591072679964" duration="1940000" />
+      <workItem from="1592121522945" duration="3010000" />
+      <workItem from="1592195917980" duration="2048000" />
+      <workItem from="1592280042079" duration="587000" />
+      <workItem from="1592460929151" duration="371000" />
+      <workItem from="1592715336430" duration="143000" />
+      <workItem from="1594617733080" duration="455000" />
+      <workItem from="1595131245680" duration="725000" />
+      <workItem from="1597909421094" duration="4552000" />
+      <workItem from="1598073794345" duration="2491000" />
+      <workItem from="1598156970239" duration="18624000" />
+      <workItem from="1598242680861" duration="5530000" />
+      <workItem from="1601099640008" duration="900000" />
+      <workItem from="1601454514574" duration="92000" />
+      <workItem from="1604378145613" duration="2648000" />
+      <workItem from="1605070625529" duration="1656000" />
+      <workItem from="1607317906012" duration="4162000" />
+      <workItem from="1607834211939" duration="23743000" />
+      <workItem from="1608005052847" duration="9986000" />
+      <workItem from="1608031651466" duration="548000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Final_task_report$Final_task_v11.coverage" NAME="Final_task_v11 Coverage Results" MODIFIED="1589780640892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$Final_task_v3.coverage" NAME="Final_task_v3 Coverage Results" MODIFIED="1587553871850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$Final_task_v9.coverage" NAME="Final_task_v9 Coverage Results" MODIFIED="1588581681995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$Last_day_company_wise_hour.coverage" NAME="Last_day_company_wise_hour Coverage Results" MODIFIED="1598246013845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$ytd_supervisor_wise_work_pie.coverage" NAME="ytd_supervisor_wise_work_pie Coverage Results" MODIFIED="1588740862303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$YTD_support_and_development.coverage" NAME="YTD_support_and_development Coverage Results" MODIFIED="1589349294282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$Final_task_v6.coverage" NAME="Final_task_v6 Coverage Results" MODIFIED="1587890853924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$Final_task_v5.coverage" NAME="Final_task_v5 Coverage Results" MODIFIED="1587803260020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$last_day_employee_wise_work_T_vs_A.coverage" NAME="last_day_employee_wise_work_T_vs_A Coverage Results" MODIFIED="1598158624585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$Final_task_v2.coverage" NAME="Final_task_v2 Coverage Results" MODIFIED="1584617361756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$ytd_supervisor_working_area_wise_bar.coverage" NAME="ytd_supervisor_working_area_wise_bar Coverage Results" MODIFIED="1588656483721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$mtd_target_vs_achievement.coverage" NAME="mtd_target_vs_achievement Coverage Results" MODIFIED="1589780329218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$Final_task_v13.coverage" NAME="Final_task_v13 Coverage Results" MODIFIED="1608015575589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$YTD_employee_wise_work_T_vs_A.coverage" NAME="YTD_employee_wise_work_T_vs_A Coverage Results" MODIFIED="1598158557502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$ItsDone.coverage" NAME="ItsDone Coverage Results" MODIFIED="1587553190012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$Final_task_v8.coverage" NAME="Final_task_v8 Coverage Results" MODIFIED="1588393023551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$test.coverage" NAME="test Coverage Results" MODIFIED="1589444616225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$ytd_target_vs_achievement.coverage" NAME="ytd_target_vs_achievement Coverage Results" MODIFIED="1589780533928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1589175320091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$last_day_supervisor_wise_work_pie.coverage" NAME="last_day_supervisor_wise_work_pie Coverage Results" MODIFIED="1597922478388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$Final_task_v7.coverage" NAME="Final_task_v7 Coverage Results" MODIFIED="1588056117362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$Company_wise_work_hour_percentage.coverage" NAME="Company_wise_work_hour_percentage Coverage Results" MODIFIED="1587629116231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$Final_task_v10.coverage" NAME="Final_task_v10 Coverage Results" MODIFIED="1589278562272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$Last_day_supervisor_working_area_wise_bar.coverage" NAME="Last_day_supervisor_working_area_wise_bar Coverage Results" MODIFIED="1589442315003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$Last_day_support_and_development.coverage" NAME="Last_day_support_and_development Coverage Results" MODIFIED="1598245751472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$support_and_development.coverage" NAME="support_and_development Coverage Results" MODIFIED="1589349286529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$mtd_company_wise_hour.coverage" NAME="mtd_company_wise_hour Coverage Results" MODIFIED="1597922237817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$Last_day_target_vs_achieved_hour.coverage" NAME="Last_day_target_vs_achieved_hour Coverage Results" MODIFIED="1589780159230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$mtd_supervisor_working_area_wise_bar.coverage" NAME="mtd_supervisor_working_area_wise_bar Coverage Results" MODIFIED="1589442385864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$no_task_entry.coverage" NAME="no_task_entry Coverage Results" MODIFIED="1588054997199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$MTD_employee_wise_work_T_vs_A.coverage" NAME="MTD_employee_wise_work_T_vs_A Coverage Results" MODIFIED="1598158519269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$Final_task_v12.coverage" NAME="Final_task_v12 Coverage Results" MODIFIED="1608031807750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$Final_task_v4.coverage" NAME="Final_task_v4 Coverage Results" MODIFIED="1587635347501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$mtd_supervisor_wise_work_pie.coverage" NAME="mtd_supervisor_wise_work_pie Coverage Results" MODIFIED="1588671202692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Final_task_report$ytd_company_wise_hour.coverage" NAME="ytd_company_wise_hour Coverage Results" MODIFIED="1604378364262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
